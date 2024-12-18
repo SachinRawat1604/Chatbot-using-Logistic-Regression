@@ -1,8 +1,3 @@
-# Chatbot-using-Logistic-Regression
-Here’s a professional and visually appealing **README.md** for your GitHub project based on the provided code:
-
----
-
 # Chatbot Using Logistic Regression  
 
 ![Chatbot](https://img.shields.io/badge/Chatbot-Streamlit-blue.svg)  
